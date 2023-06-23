@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sadhushan
+- 👋 Hi, I’m @SK
 - 👀 I’m interested in hacking & Coding
-- 🌱 I’m currently learning  Software Enginnering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning  Software Enginnering at cardiff metropolitan university (UK) 
+- 💞️ I’m looking to collaborate on  New amazing Project
+- 📫 How to reach me  -- Github
 
 <!---
 Sadhushan/Sadhushan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
